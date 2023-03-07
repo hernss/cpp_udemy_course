@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\HernssGit\CPP_git\ClassTemplates\ClassTemplates\main.cpp(57): warning C4172: devolución de dirección de la variable local o temporal
+  ClassTemplates.vcxproj -> D:\HernssGit\CPP_git\ClassTemplates\x64\Debug\ClassTemplates.exe

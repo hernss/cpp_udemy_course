@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\HernssGit\CPP_git\LambdaExpressions\LambdaExpressions\main.cpp(106,8): warning C4101: 'comp': variable local sin referencia
+  LambdaExpressions.vcxproj -> D:\HernssGit\CPP_git\LambdaExpressions\x64\Debug\LambdaExpressions.exe
